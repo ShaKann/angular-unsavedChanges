@@ -1,5 +1,5 @@
 {
-  "name": "angular-unsavedChanges",
+  "name": "angular-unsaved-changes",
   "version": "0.2.5",
   "description": "AngularJS directive to warn user of unsaved changes when navigating away from a form.",
   "main": "dist/unsavedChanges.js",
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/facultymatt/angular-unsavedChanges.git"
+    "url": "https://github.com/ShaKann/angular-unsavedChanges.git"
   },
   "keywords": [
     "form",
@@ -59,7 +59,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/facultymatt/angular-unsavedChanges/issues"
+    "url": "https://github.com/ShaKann/angular-unsavedChanges/issues"
   },
-  "homepage": "https://github.com/facultymatt/angular-unsavedChanges"
+  "homepage": "https://github.com/ShaKann/angular-unsavedChanges"
 }

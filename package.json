@@ -1,5 +1,5 @@
 {
-  "name": "angular-unsaved-changes",
+  "name": "angular-unsaved-page",
   "version": "0.2.5",
   "description": "AngularJS directive to warn user of unsaved changes when navigating away from a form.",
   "main": "dist/unsavedChanges.js",
